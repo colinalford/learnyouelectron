@@ -1,0 +1,8 @@
+// Fill this array in with the lesson titles, and then run:
+// node_modules/workshopper/util/makews.js exercises/menu.json
+// to generate lesson directories
+
+[
+  "WHAT IS ELECTRON?",
+  "MAIN PROCESS AND RENDER PROCESSES"
+]
