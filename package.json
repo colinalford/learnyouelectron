@@ -4,7 +4,8 @@
   "description": "Learn the basics of cross-platform apps with electron",
   "bin": "./learnyouelectron.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "electron": "./node_modules/.bin/electron"
   },
   "repository": {
     "type": "git",
@@ -30,5 +31,8 @@
     "workshopper-boilerplate": "^1.1.2",
     "workshopper-exercise": "^2.6.1",
     "workshopper-wrappedexec": "^0.1.2"
+  },
+  "devDependencies": {
+    "electron-prebuilt": "^0.37.6"
   }
 }
