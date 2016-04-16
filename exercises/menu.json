@@ -1,15 +1,11 @@
-// Fill this array in with the lesson titles, and then run:
-// node_modules/workshopper/util/makews.js exercises/menu.json
-// to generate lesson directories
-
 [
   "WHAT IS ELECTRON?",
   "GETTING STARTED",
   "MAIN PROCESS AND RENDER PROCESSES",
   "DIALOG WINDOWS",
   "SHOW SOME CONTENT",
-  "SHOW MORE CONTENT", // (IPC - Multi Window Application)
-  "ADD A MENU", 
+  "SHOW MORE CONTENT",
+  "ADD A MENU",
   "ADD SYSTEM TRAY ICON",
   "PACKAGE IT UP"
 ]
