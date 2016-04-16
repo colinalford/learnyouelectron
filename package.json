@@ -1,0 +1,34 @@
+{
+  "name": "learnyouelectron",
+  "version": "0.0.0",
+  "description": "Learn the basics of cross-platform apps with electron",
+  "bin": "./learnyouelectron.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cralford21/learnyouelectron.git"
+  },
+  "keywords": [
+    "electron",
+    "nodeschool"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cralford21/learnyouelectron/issues"
+  },
+  "homepage": "https://github.com/cralford21/learnyouelectron#readme",
+  "dependencies": {
+    "bl": "^1.1.2",
+    "colors-tmpl": "^1.0.0",
+    "hapi": "^13.3.0",
+    "hyperquest": "^1.3.0",
+    "through2": "^2.0.1",
+    "workshopper": "^2.7.0",
+    "workshopper-boilerplate": "^1.1.2",
+    "workshopper-exercise": "^2.6.1",
+    "workshopper-wrappedexec": "^0.1.2"
+  }
+}
